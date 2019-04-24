@@ -1,0 +1,12 @@
+Timers:
+
+TIM1: rgb pwm
+TIM3: beacon pwm
+TIM3: ad conversion
+TIM4: sound
+
+I2C addresses:
+
+LCD		001
+Strip1		010 -> 0100 010 = 0x22
+Strip2		011 -> 0100 011 = 0x23
